@@ -1,0 +1,8 @@
+InvoiceNo    The Transaction Number
+StockCode    The Code of Item 
+Description  The Items that have been Bought 
+Quantity     The Number of Item Bought
+InvoiceDate  On Which Date it has been Bought
+UnitPrice    What is the Price of the Unit
+CustomerID   Unique Customer ID
+Country      The Country 
